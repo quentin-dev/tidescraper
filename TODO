@@ -1,0 +1,11 @@
+- [~] Add logging to datapair
+- [~] Add logging to tidedata
+- [X] Add logging to scraper
+- [X] Add logging to tidescraper
+- [X] Save data for all days into a [Date, TideData] dictionary
+- [X] Save dictionary to CSV
+- [X] Parallelize all requests
+- [X] Add type hints
+- [ ] Set up formatter
+- [ ] Set up linter
+- [ ] Create pre-commit hooks
