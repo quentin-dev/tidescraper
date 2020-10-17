@@ -1,5 +1,8 @@
 # tidescraper
 
+The goal of this project is to output a CSV with all tide data from the port
+of Ouistreham for the current year.
+
 ## Development
 
 This project uses `black`, `flake8`, `isort`, and `pre-commit` in order to
